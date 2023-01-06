@@ -1,12 +1,11 @@
 package SelfPractice;
 
-public class OddEvenOR {
+public class findevenOddXOR {
     public static void main(String[] args) {
         
-        int number = 101;
-
-        if((number | 1 ) > number){
-          System.out.println("even");
+        int number = 99092;
+        if((number ^ 1) == (number + 1)){
+            System.out.println("Even");
         }else{
             System.out.println("Odd");
         }
