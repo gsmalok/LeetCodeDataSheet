@@ -20,7 +20,7 @@ public class addTwoComplexNumber {
     // function for add 
 
     public static addTwoComplexNumber add(addTwoComplexNumber n1, addTwoComplexNumber n2 ) {
-        addTwoComplexNumber result = new addTwoComplexNumber(9,7);
+        addTwoComplexNumber result = new addTwoComplexNumber(0,0);
         
         // adding real part both real number 
         result.real = n1.real + n2.real;
