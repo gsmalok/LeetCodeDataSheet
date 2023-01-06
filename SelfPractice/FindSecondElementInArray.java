@@ -23,7 +23,6 @@ class Solution {
         return secondLargest;
     }
 }
-
 // test the solution
 public class FindSecondElementInArray {
     public static void main(String[] args) {
