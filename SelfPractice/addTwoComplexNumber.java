@@ -20,7 +20,7 @@ public class addTwoComplexNumber {
     // function for add 
 
     public static addTwoComplexNumber add(addTwoComplexNumber n1, addTwoComplexNumber n2 ) {
-        addTwoComplexNumber result = new addTwoComplexNumber(0,0);
+        addTwoComplexNumber result = new addTwoComplexNumber(9,7);
         
         // adding real part both real number 
         result.real = n1.real + n2.real;
@@ -28,6 +28,8 @@ public class addTwoComplexNumber {
         // adding image part both image number 
 
         result.image = n1.image + n2.image;
+
+
 
         return result;
     }
