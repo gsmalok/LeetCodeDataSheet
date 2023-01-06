@@ -1,6 +1,6 @@
 package SelfPractice;
 
-public class evenOdd {
+public class evenOddAND {
     public static void main(String[] args) {
         int number = 10;
     int BitMask = 1;
