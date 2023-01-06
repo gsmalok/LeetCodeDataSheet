@@ -32,6 +32,5 @@ public class FindSecondElementInArray {
         int n = 6;
         int result = solution.print2largest(arr, n);
         System.out.println(result); // should print 34   
-        
     }
 }
