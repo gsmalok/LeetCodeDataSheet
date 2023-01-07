@@ -1,5 +1,6 @@
 package SelfPractice;
 
+
 public class findevenOddXOR {
     public static void main(String[] args) {
         int number = 99092;
