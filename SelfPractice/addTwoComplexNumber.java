@@ -30,7 +30,6 @@ public class addTwoComplexNumber {
         result.image = n1.image + n2.image;
 
 
-
         return result;
     }
 
