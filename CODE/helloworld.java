@@ -1,4 +1,4 @@
-package CODE Push;
+package CODE;
 
 public class helloworld {
     public static void main(String[] args) {
