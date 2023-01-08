@@ -1,5 +1,6 @@
 package SelfPractice;
 
+
 public class LCM {
 
     public static int GCD(int x, int y) {
