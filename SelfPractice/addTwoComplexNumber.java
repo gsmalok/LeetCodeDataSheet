@@ -26,7 +26,6 @@ public class addTwoComplexNumber {
         result.real = n1.real + n2.real;
 
         // adding image part both image number 
-
         result.image = n1.image + n2.image;
 
         return result;
