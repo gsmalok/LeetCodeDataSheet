@@ -1,3 +1,4 @@
+package SelfPractice;
 class numberisSrtong{
     public static void main(String[] args) {
         int number = 10;
