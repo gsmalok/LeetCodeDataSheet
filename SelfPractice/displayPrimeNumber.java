@@ -5,11 +5,11 @@ public class displayPrimeNumber {
         
            int number = 33;
 
-        for(int j=2 ; j<=number ; j++){
+        for(int j=2 ; j<=number ; j++){  // to optimistic code
              
            boolean temp = false;
 
-           for(int i= 2 ; i< j;i++){
+           for(int i= 2 ; i*i< j;i++){
             if( j%i==0){
                 temp = true;
             }
