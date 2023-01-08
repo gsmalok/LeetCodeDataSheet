@@ -1,5 +1,4 @@
 package SelfPractice;
-import java.util.*;
 public class Armstrong_Number {
     /**
      * @param args
