@@ -1,6 +1,8 @@
 package SelfPractice;
 public class Armstrong_Number {
-
+    /**
+     * @param args
+     */
     public static void main(String[] args) {
         
         // an integer such that the sum of the cubes of its digits is equal to the i itself. 
