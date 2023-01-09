@@ -1,15 +1,14 @@
 package SelfPractice;
 public class Armstrong_Number {
-    /**
-     * @param args
-     */
+
     public static void main(String[] args) {
         
         // an integer such that the sum of the cubes of its digits is equal to the i itself. 
         // example is 371 1741725, 4210818, 9800817, 9926315
-        
-        int number = 100;
-        for(int i=1; i<=number; i++){
+        int number1 = 50;
+        int number = 500;
+
+        for(int i=number1; i<=number; i++){
             int temp = i;
             int temp1 = i;
             int count = 0; 
