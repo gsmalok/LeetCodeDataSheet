@@ -16,5 +16,4 @@ public class helloworld {
                 System.out.println(add(s,6));
         }
     }
-   
 }
