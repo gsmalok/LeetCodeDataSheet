@@ -15,7 +15,6 @@ public class helloworld {
                 short s = 9;
                 System.out.println(add(s,6));
         }
-
     }
    
 }
