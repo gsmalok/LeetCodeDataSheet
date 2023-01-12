@@ -13,7 +13,6 @@ package CODE;
             while(true){
                 System.out.print(threadName);
             }
-           
         }
         public void start(){
             if(t == null){
