@@ -29,7 +29,6 @@ package CODE;
                     B.start();
                     A.start();
 
-
             }
     }
 
