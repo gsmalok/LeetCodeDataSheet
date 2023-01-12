@@ -28,7 +28,6 @@ package CODE;
                 SampleDemo B = new SampleDemo("B");
                     B.start();
                     A.start();
-
             }
     }
 
