@@ -8,7 +8,6 @@ public class helloworld {
           return i+j;
         }
     }
-   
     public class B extends A{
         public static void main(String[] args) {
       
