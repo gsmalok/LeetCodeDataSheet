@@ -29,9 +29,11 @@ public class BasicLinkedList {
     llist.head = llist.new Node(1);
     Node second = llist.new Node(2);
     Node third  = llist.new Node(3);
+    Node fourth = llist.new Node(4);
      
     llist.head.next = second;
     second.next = third;
+    third.next = fourth;
 
     llist.PrintList();
         }
