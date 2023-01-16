@@ -8,7 +8,7 @@ package CODE;
         }
         public void run(){
             while(true){
-                System.out.print(threadName);
+            System.out.print(threadName);
             }
         }
         public void start(){
