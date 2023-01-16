@@ -1,10 +1,8 @@
 package CODE;
-
 // public class hack {
     class SampleDemo implements Runnable{
         private Thread t;
         private String threadName;
-
         SampleDemo (String threadName){
             this.threadName = threadName;
         }
@@ -28,6 +26,5 @@ package CODE;
                     A.start();
             }
     }
-
 
 
