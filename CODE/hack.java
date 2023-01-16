@@ -4,7 +4,7 @@ package CODE;
         private Thread t;
         private String threadName;
         SampleDemo (String threadName){
-            this.threadName = threadName;
+        this.threadName = threadName;
         }
         public void run(){
             while(true){
