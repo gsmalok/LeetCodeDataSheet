@@ -1,5 +1,4 @@
 package CODE;
-
 // public class hack {
 class SampleDemo implements Runnable {
     private Thread t;
