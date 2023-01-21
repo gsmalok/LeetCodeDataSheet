@@ -2,7 +2,6 @@ package LinkedList;
 
 public class BasicLinkedList {
     Node head;
-
     class Node{
         int data;
         Node next;
@@ -12,7 +11,6 @@ public class BasicLinkedList {
             next = null;
         }
     }
-
     public void PrintList() {
         Node n = head;
 
@@ -21,6 +19,7 @@ public class BasicLinkedList {
             n = n.next;
         }
     }
+
         public static void main(String[] args) {
             
             
@@ -34,6 +33,7 @@ public class BasicLinkedList {
     llist.head.next = second;
     second.next = third;
     third.next = fourth;
+
 
     llist.PrintList();
         }
