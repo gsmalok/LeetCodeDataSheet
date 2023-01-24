@@ -5,9 +5,6 @@ package CODE;
 
 
 
-
-
-
 public class helloworld {
     public class A {
         static int add(int i, int j) {
